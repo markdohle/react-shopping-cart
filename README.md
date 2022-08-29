@@ -1,6 +1,5 @@
 # react-shopping-cart
 MIT xPro REACT Week 4 - NextTech Assignment
-## React - Shopping Cart
 ### Shopping Cart
 
 Now that you have watch a simple shopping cart be built, you're going to create a similar shopping cart for a clothing store.
