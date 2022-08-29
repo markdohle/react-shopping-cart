@@ -39,3 +39,8 @@ Hints:
 Make use of the ```filter``` and ```map``` functions to find elements in an array
 Remember that the ```innerHtml``` property contains all elements within a specific HTML tag
 Make sure to update the state properly using the spread operator
+
+## Extending the program
+A close example would be unattended stockroom inventory management. If the maintenance department has room of air filters organized on numbered shelves, then the user of the app could choose a shelf and see the inventory on that shelf. If he took an item off the shelf, then he could click the add to cart button and take the filter off the shelf. The inventory would go down and the next person who comes in to take a filter would no longer see the filter in inventory.
+
+The code could be adjusted for someone added a filter to the shelf. He could type in the product information and the location information(shelf name) and click submit to add an item to the shelf. 
