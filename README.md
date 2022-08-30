@@ -1,5 +1,19 @@
 # react-shopping-cart
 MIT xPro REACT Week 4 - NextTech Assignment
+
+[JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
+
+React with JSX:
+```<MyButton color="blue" shadowSize={2}>``` 
+```Click Me```
+```</MyButton>```
+
+React withou JSX:
+
+```React.createElement(```
+```MyButton, {color: 'blue', shadowSize: 2},```
+```'Click Me')```
+
 ### Shopping Cart
 
 Now that you have watch a simple shopping cart be built, you're going to create a similar shopping cart for a clothing store.
